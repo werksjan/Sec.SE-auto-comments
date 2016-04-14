@@ -8,7 +8,7 @@ I'd be happy for a ping in [the Sec.SE CVR room][6] or a pull request for contri
 
 I will also post a meta in a week from now to allow for helpful additions, comments and such to be added until then.
 
-
+The comments are in a raw format so you can copy&paste them into the "import/export" window of the userscript. Click the "auto" button and then "import/export", paste it there and hit "save".
 
 
   [1]: http://meta.security.stackexchange.com/questions/2288/too-aggressive-with-off-topic-comments/2293#2293
