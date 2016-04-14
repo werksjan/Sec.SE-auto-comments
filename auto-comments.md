@@ -74,34 +74,34 @@ I'm voting to close this question as off-topic because we are not customer suppo
 [See how you can format your post correctly](//$SITEURL$/help/formatting).
 
 ###[AQ] CAPS
-You don't have to screa
+You don't have to scream
 
 ###[AQ] Destroying content
 Please don't destroy content on $SITENAME$
 
 ###[EQ] SOLVED!
-Please don't put the answer in your question; You can [self-answer](//$SITEURL$/help/self-answer) your question if you found the solution;
+Please don't put the answer in your question; You can [self-answer](//$SITEURL$/help/self-answer) your question if you found the solution
 
 ###[EQ] i capitalization
-[Capitalize the 1. person sg pronoun](//english.stackexchange.com/q/172);
+[Capitalize the 1. person sg pronoun](//english.stackexchange.com/q/172)
 
 ###[EQ] it's / its
-[it's and its are different](//english.stackexchange.com/q/653);
+[it's and its are different](//english.stackexchange.com/q/653)
 
 ###[EQ] Formatting
-[See how you can format and intend your code correctly](//$SITEURL$/help/formatting);
+[See how you can format and intend your code correctly](//$SITEURL$/help/formatting)
 
 ###[EQ] Hi, and thanks!
-[Hi, thanks, ... are considered noise](//meta.stackexchange.com/q/2950);
+[Hi, thanks, ... are considered noise](//meta.stackexchange.com/q/2950)
 
 ###[EQ] CAPS
-You don't have to scream;
+You don't have to scream
 
 ###[EQ] New question
-If you have a new question, please don't edit it over your old one. [Ask one here](//$SITEURL$/questions/ask);
+If you have a new question, please don't edit it over your old one. [Ask one here](//$SITEURL$/questions/ask)
 
 ###[EQ] Destroying content
-Please don't destroy content on $SITENAME$;
+Please don't destroy content on $SITENAME$
 
 ###[EQ] Tags
 The tags you have been using are not appropriate for this question. Please take the [tour], review [what are tags and how should I use them?](//$SITEURL$/help/tagging) and [edit] your post. Remember to at least read the mouse over on the tags you are using when asking a question. Thank you!
@@ -113,7 +113,7 @@ This question is spam. Flag it as spam by ***clicking the "flag" link*** instead
 This question contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link*** instead of [voting to close](http://meta.stackoverflow.com/a/295725/4174897)!
 
 ###[Q] Ask good!
-Please see [ask] and [The perfect question](http://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/).
+Please see [ask] and [The perfect question](http://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/). With better questions, you are more likely to receive better answers faster. Thanks!
 
 ###[Q] Many formatting issues
 Take a moment to read through the [editing help](//$SITEURL$/editing-help) in the help center. Formatting on $SITENAME$ is different than other sites. The better your post looks, the easier it is for others to read and understand it.
