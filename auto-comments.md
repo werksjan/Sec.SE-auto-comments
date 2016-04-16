@@ -74,7 +74,7 @@ I'm voting to close this question as off-topic because we are not customer suppo
 [See how you can format your post correctly](//$SITEURL$/help/formatting).
 
 ###[AQ] CAPS
-You don't have to scream
+You don't have to scream. Writing sections in all capital letters is more likely to drive away attention than attract it.
 
 ###[AQ] Destroying content
 Please don't destroy content on $SITENAME$
