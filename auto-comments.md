@@ -47,7 +47,7 @@ Please write your answer in English, since [$SITENAME$ is an English site.](//me
 Just linking to your own library or tutorial is not a good answer. Linking to it, explaining why it solves the problem, providing information on how to do so and disclaiming that you wrote it makes for a better answer. See: [**What signifies “Good” self promotion?**](//meta.stackexchange.com/q/182212/200235)
 
 ###[A] Language, please
-I know you're excited, but please try to keep your language under control. Think of $SITENAME$ as more like Wikipedia than like Reddit.
+Please keep your language professional and without profanity. Think of $SITENAME$ as more like Wikipedia than like Reddit.
 
 ###[A] Borderline Link-Only answer
 This is a borderline [link-only answer](//meta.stackexchange.com/q/8231/213671). You should expand your answer to include as much information here, and use the link only for reference.
