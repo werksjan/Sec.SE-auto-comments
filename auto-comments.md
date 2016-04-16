@@ -1,8 +1,8 @@
 ###[A] Spam!!
-This answer is spam. Flag it as spam by ***clicking the "flag" link***!
+This answer is spam. Flag it as spam by ***clicking the "flag" link***! DO NOT EDIT THIS!
 
 ###[A] Spam!! (Punctuation)
-This answer contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link***!
+This answer contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link***! DO NOT EDIT THIS!
 
 ###[A] Question as answer
 This post isn't an actual attempt at answering the question. Please note [$SITENAME$ doesn't work like a discussion forum](//$SITEURL$/about), it is a Q&A site where every post is either a question or an answer to a question. Posts can also have [comments](//$SITEURL$/help/privileges/comment) - small sentences like this one - that can be used to critique or request clarification from an author. This should be either a comment or a [new question](//$SITEURL$/questions/ask).
