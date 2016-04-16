@@ -1,8 +1,8 @@
 ###[A] Spam!!
-This answer is spam. Flag it as spam by ***clicking the "flag" link***!
+This answer is spam. Flag it as spam by ***clicking the "flag" link***! DO NOT EDIT THIS!
 
 ###[A] Spam!! (Punctuation)
-This answer contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link***!
+This answer contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link***! DO NOT EDIT THIS!
 
 ###[A] Question as answer
 This post isn't an actual attempt at answering the question. Please note [$SITENAME$ doesn't work like a discussion forum](//$SITEURL$/about), it is a Q&A site where every post is either a question or an answer to a question. Posts can also have [comments](//$SITEURL$/help/privileges/comment) - small sentences like this one - that can be used to critique or request clarification from an author. This should be either a comment or a [new question](//$SITEURL$/questions/ask).
@@ -107,10 +107,10 @@ Please don't destroy content on $SITENAME$
 The tags you have been using are not appropriate for this question. Please take the [tour], review [what are tags and how should I use them?](//$SITEURL$/help/tagging) and [edit] your post. Remember to at least read the mouse over on the tags you are using when asking a question. Thank you!
 
 ###[Q] Spam!!
-This question is spam. Flag it as spam by ***clicking the "flag" link*** instead of [voting to close](http://meta.stackoverflow.com/a/295725/4174897)!
+This question is spam. Flag it as spam by ***clicking the "flag" link*** instead of [voting to close](http://meta.stackoverflow.com/a/295725/4174897)! DO NOT EDIT THIS POST!
 
 ###[Q] Spam!! (Punctuation)
-This question contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link*** instead of [voting to close](http://meta.stackoverflow.com/a/295725/4174897)!
+This question contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link*** instead of [voting to close](http://meta.stackoverflow.com/a/295725/4174897)! DO NOT EDIT THIS POST!
 
 ###[Q] Ask good!
 Please see [ask] and [The perfect question](http://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/). With better questions, you are more likely to receive better answers faster. Thanks!
